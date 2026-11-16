@@ -3,9 +3,6 @@ name: Update README cards
 # Generates the profile stat cards as static SVG files and commits them to this
 # repo (profile/*.svg). The README only shows those committed files, so nothing
 # is fetched when someone opens the profile.
-#
-# Adapted from github.com/ChiefGyk3D/chiefgyk3d.
-# Place this file at: .github/workflows/readme-cards.yml
 
 on:
   schedule:
@@ -41,7 +38,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
         with:
           card: stats
-          options: "username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_rank=true&${{ env.THEME }}"
+          options: "username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars,contribs&${{ env.THEME }}"
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
