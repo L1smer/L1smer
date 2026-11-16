@@ -46,7 +46,7 @@
 | Project | What it is |
 |---|---|
 | **[Watcher](https://www.aimpiria.com/watcher)** | Mobile app with AI-driven, personalized movie recommendations based on who you are and what you like. Expo app with a NestJS, PostgreSQL, and Azure backend. Source is private. |
-| **[UberSim](https://github.com/L1smer/uber-simulation)** | Ride-sharing simulation built as a university team project that I led. Java 21 and Spring Boot backend, React and TypeScript frontend. Dijkstra pathfinding on a road graph, Haversine distances, live updates over WebSockets, a canvas-rendered map, and a Strategy pattern for driver matching. |
+| **[uber-simulation](https://github.com/L1smer/uber-simulation)** | Ride-sharing simulation built as a university team project that I led. Java 21 and Spring Boot backend, React and TypeScript frontend. Dijkstra pathfinding on a road graph, Haversine distances, live updates over WebSockets, a canvas-rendered map, and a Strategy pattern for driver matching. |
 | **[job-scraper](https://github.com/L1smer/job-scraper)** | Job-alert bot that checks JustJoin.it, NoFluffJobs, LinkedIn, and Indeed every hour with GitHub Actions and sends new matching vacancies to Telegram. |
 
 ---
