@@ -56,7 +56,7 @@
 | Project | What it is |
 |---|---|
 | **[Watcher](https://www.aimpiria.com/watcher)** | Finishing the remaining premium features, growing the user base, and building the app's social media presence. |
-| **Receipt AI** | Mobile app that turns a photo of a receipt into structured spending data. An LLM parses the receipt text, since every shop prints receipts differently, and the app keeps monthly statistics for a personal finance report. |
+| **[Receipt AI](https://github.com/L1smer/receipt-ai)** | Mobile app that turns a photo of a receipt into structured spending data. An LLM parses the receipt text, since every shop prints receipts differently, and the app keeps monthly statistics for a personal finance report. |
 
 ---
 
