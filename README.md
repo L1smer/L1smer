@@ -1,12 +1,11 @@
 <div align="center">
 
-# 👋 Hey, I'm Maksym aka **L1smer**
+<img src="./profile/header.svg" alt="Hey, I'm Maksym aka L1smer. Full-Stack Developer · Startup Builder · ML/AI Learner" width="100%"/>
 
-**Full-Stack Developer · Startup Builder · ML/AI Learner**
+<br/><br/>
 
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-krasnov-113b40357)
-[![Watcher](https://img.shields.io/badge/-Watcher-1F6FEB?style=for-the-badge&logoColor=white)](https://www.aimpiria.com/watcher)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF6E00?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-krasnov-113b40357)
+[![Watcher](https://img.shields.io/badge/-Watcher-151515?style=for-the-badge&logoColor=white)](https://www.aimpiria.com/watcher)
 
 **Jump to:** [🧭 At a glance](#-at-a-glance) · [📊 Stats](#-github-stats) · [🚀 Projects](#-projects) · [🔨 Now](#-what-im-working-on-now)
 
@@ -20,9 +19,9 @@
 |---|---|
 | 💼 **Day job** | Full-stack engineer. React Native on mobile, NestJS and PostgreSQL on the backend, deployed on Azure. Frontend roots in React, TypeScript, and Next.js. |
 | 🚀 **Startup** | [Watcher](https://www.aimpiria.com/watcher): an app that turns your personality and preferences into personalized movie recommendations. I work on the product across the whole stack and also run its marketing. |
-| 🧠 **Learning & passion** | Python and ML/AI, with a focus on hybrid on-device AI. Mobile development. Cloud infrastructure and deployment |
+| 🧠 **Learning & passion** | Learning Python and ML/AI fundamentals, with a focus on on-device AI for mobile. Happiest when building simulations, real-time systems, and map or canvas visualizations. |
 | 🎓 **University** | BSc in Teleinformatics (ICT) at Wrocław University of Science and Technology. |
-| ❤️ **Cares about** | End-to-end development, clean and typed code, automation, and systematicity.  |
+| ❤️ **Cares about** | Shipping things real people use, clean and typed code, automating the boring parts, and products that feel fast and simple. |
 
 ---
 
@@ -45,8 +44,8 @@
 
 | Project | What it is |
 |---|---|
-| **[Watcher](https://www.aimpiria.com/watcher)** | Mobile app with AI-driven, personalized movie recommendations based on who you are and what you like. Expo app with a NestJS, PostgreSQL, and Azure backend. Source is private. |
-| **[uber-simulation](https://github.com/L1smer/uber-simulation)** | Ride-sharing simulation built as a university team project that I led. Java 21 and Spring Boot backend, React and TypeScript frontend. Dijkstra pathfinding on a road graph, Haversine distances, live updates over WebSockets, a canvas-rendered map, and a Strategy pattern for driver matching. |
+| **[Watcher](https://www.aimpiria.com/watcher)** | Mobile app with AI-driven, personalized movie recommendations based on who you are and what you like. React Native app with a NestJS, PostgreSQL, and Azure backend. Source is private. |
+| **[UberSim](https://github.com/L1smer/uber-simulation)** | Ride-sharing simulation built as a university team project that I led. Java 21 and Spring Boot backend, React and TypeScript frontend. Dijkstra pathfinding on a road graph, Haversine distances, live updates over WebSockets, a canvas-rendered map, and a Strategy pattern for driver matching. |
 | **[job-scraper](https://github.com/L1smer/job-scraper)** | Job-alert bot that checks JustJoin.it, NoFluffJobs, LinkedIn, and Indeed every hour with GitHub Actions and sends new matching vacancies to Telegram. |
 
 ---
@@ -55,13 +54,13 @@
 
 | Project | What it is |
 |---|---|
-| **[Watcher](https://www.aimpiria.com/watcher)** | Finishing the remaining premium features, growing the user base, and building the app's social media presence. |
-| **[Receipt AI](https://github.com/L1smer/receipt-ai)** | Mobile app that turns a photo of a receipt into structured spending data. An LLM parses the receipt text, since every shop prints receipts differently, and the app keeps monthly statistics for a personal finance report. |
+| **[Watcher](https://www.aimpiria.com/watcher)** | Finishing the remaining features, growing the user base, and building the app's social media presence. |
+| **Receipt AI** | Mobile app that turns a photo of a receipt into structured spending data. An LLM parses the receipt text, since every shop prints receipts differently, and the app keeps monthly statistics for a personal finance report. |
 
 ---
 
 <div align="center">
 
-**Open to full-stack and frontend roles.** The fastest way to reach me are <maksimkrasnov747@gmail.com> or [LinkedIn](https://www.linkedin.com/in/maksym-krasnov-113b40357).
+**Open to full-stack and frontend roles.** The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/maksym-krasnov-113b40357).
 
 </div>
