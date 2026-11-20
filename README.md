@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="./profile/header.svg" alt="Hey, I'm Maksym aka L1smer. Full-Stack Developer · Startup Builder · ML/AI Learner" width="100%"/>
-
-<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/header-light.svg">
+  <img src="./profile/header-dark.svg" alt="Hey, I'm Maksym aka L1smer. Full-Stack Developer · Startup Builder · ML/AI Learner" width="100%">
+</picture>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF6E00?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-krasnov-113b40357)
 [![Watcher](https://img.shields.io/badge/-Watcher-151515?style=for-the-badge&logoColor=white)](https://www.aimpiria.com/watcher)
